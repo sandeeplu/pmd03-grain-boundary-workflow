@@ -82,7 +82,7 @@ The notebook provides two execution options:
 
 **Option 1: Load existing results**
 
-The notebook uses the existing HDF5 result file:
+The notebook uses the existing HDF5 result file and results can be downloaded from https://github.com/pyiron-node-store/pmd03_demonstrators:
 
 `results/gb_run.h5`
 
