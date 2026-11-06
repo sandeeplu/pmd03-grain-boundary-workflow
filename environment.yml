@@ -1,0 +1,12 @@
+name: pmd03-grain-boundary
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.13
+  - pip
+  - jupyterlab
+  - ipykernel
+  - graphviz
+  - pip:
+      - -e .
