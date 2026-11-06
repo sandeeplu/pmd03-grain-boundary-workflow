@@ -124,10 +124,8 @@ The finite size of the periodic simulation cells can also influence segregation 
 
 The notebook provides previously calculated results to facilitate inspection without requiring the full calculations to be repeated.
 
-## 9. Attribution
+## 9. Acknowledgement and Attribution
 
-This workflow is based on the original `ex2-grain_boundary.ipynb` demonstrator from:
+This workflow is adapted from the original demonstrator developed by Liam Huber and available in the https://github.com/pyiron-node-store/pmd03_demonstrators repository. The original work is acknowledged, and modifications made in this version are documented where applicable.
 
-https://github.com/pyiron-node-store/pmd03_demonstrators
 
-Original author attribution should be retained when redistributing or adapting the demonstrator.
