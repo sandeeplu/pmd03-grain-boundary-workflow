@@ -1,0 +1,40 @@
+{
+  "workflow_environment": "pyiron",
+  "title": "Grain Boundary Solute Segregation and Excess Volume Analysis Using pyiron-workflow",
+  "authors": [
+    "Liam Huber"
+  ],
+  "description": "An atomistic workflow for investigating solute segregation at a Σ5 (120)[001] tilt grain boundary in aluminium. The workflow relaxes bulk and grain-boundary structures, identifies symmetrically distinct atomic sites, substitutes Cu, Ag, Au and Ni solutes at different sites, and calculates their segregation energies. It also evaluates atomic Voronoi volumes and correlates site excess volumes with segregation energies using an EMT interatomic potential.",
+  "release": "0.1.0",
+  "keywords": [
+    "grain boundary",
+    "solute segregation",
+    "segregation energy",
+    "aluminium",
+    "Voronoi volume",
+    "excess volume",
+    "atomistic simulation",
+    "pyiron-workflow",
+    "ASE",
+    "EMT"
+  ],
+  "categories": [
+    "atomistics"
+  ],
+  "steps": [
+    "Bulk and grain-boundary structure generation",
+    "Structural relaxation",
+    "Identification of symmetrically distinct atomic sites",
+    "Solute substitution",
+    "Relaxation of solute-containing structures",
+    "Segregation energy calculation",
+    "Voronoi volume calculation",
+    "Segregation energy versus excess volume analysis"
+  ],
+  "codes": [
+    "ASE",
+    "EMT",
+    "pyiron-workflow",
+    "pyiron-workflow-atomistics"
+  ]
+}
